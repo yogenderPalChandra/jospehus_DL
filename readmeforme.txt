@@ -3,4 +3,9 @@
 #DL_dischargeIncreasedFeatures.ipynb
 
 
+# DL_ChrDisAsOneDataSet, take sine dataset, added features - entropy, availability, flow for charge and discharge both.Very low val_loss
 
+
+
+# DL_tryingWholeDataChargeDisCharWithAvailaEntropAndZeroInputToNN does seperatly for charge and sischage, takes entropy and flow but seperatly-
+#charging is very clean, discharging is 0.04 something val_loss

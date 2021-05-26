@@ -9,3 +9,6 @@
 
 # DL_tryingWholeDataChargeDisCharWithAvailaEntropAndZeroInputToNN does seperatly for charge and sischage, takes entropy and flow but seperatly-
 #charging is very clean, discharging is 0.04 something val_loss
+#
+
+#maybe I should get a data which take is multiple charge and discharge to run DL for figures

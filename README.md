@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Raspi2_second_currentLoop_RemoteMySql
+=======
 ### This is the main server of whole process
 * This is Raspberry Pi 2
 * It directly loggs in data and saves it in local postgreSQL server from external current loop devices, in addition to communication via. modbus communication
@@ -23,3 +26,4 @@
 *This is how physical layer looks like, lousy though:)*
 
 <img src="IMG_20210409_110419.jpg" height="500" width="500"/>
+>>>>>>> tmp
